@@ -1,0 +1,31 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: Comfortaa, Montserrat, 'Montserrat Alternates', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+$font-families: 'montserrat' Montserrat, 'montserrat-alt' 'Montserrat Alternates', 'allexist' Allexist cursive;
+$font-sizes: '20' 20px, '18' 18px, '17' 17px, '16' 16px, '15' 15px, '14' 14px, '40' 40px, '50' 50px, '70' 70px, '30' 30px;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+// My colors
+$myblue: #0A6BCB;
+$myyellow: #DBAB0F;
+$darkyellow: darken($myyellow, 10%);
+$darkblue: #060F2A;
+$white: #fff;
+$black: #000;
+
+$palette: 'blue' $myblue $white, 'yellow' $myyellow $white, 'darkyellow' $darkyellow $white, 'darkblue' $darkblue $white, 'mywhite' $white $black;

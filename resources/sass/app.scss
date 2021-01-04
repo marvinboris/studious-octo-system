@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700|Montserrat+Alternates:100,200,300,400,500,600,700,800,900|Montserrat:100,200,300,400,500,600,700,800,900&display=swap');
+@font-face {
+    font-family: Allexist;
+    src: url('/fonts/FontsFree-Net-Allexist.ttf');
+}
+
+// Variables
+@import 'variables';
+
+// FontAwesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import 'classes';
+@import 'header';
+@import 'home';
